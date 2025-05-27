@@ -3,6 +3,31 @@
   
 
 Creating an end-to-end sales analytics model. Loading and transforming it in Snowflake, visualizing KPIs, trends, and product performance in Power BI.
+Designed and developed a dynamic sales analytics dashboard using Power BI and Snowflake as the cloud data source. The project showcases key sales KPIs, regional performance, product category insights, and customer segmentation.
+
+## Key Features:
+
+📊 Interactive dashboard with modern visuals and slicers
+
+🔄 Live connection to Snowflake cloud data warehouse
+
+📈 Visuals include: Sales trends, Profit margins, Regional breakdown, Category analysis, and Top 10 products
+
+🧮 DAX measures for KPIs: Total Sales, Profit, Quantity, and Profit Margin (%)
+
+🧩 Segment filters for Region, Category and Segment
+
+🎨 Light theme layout for clarity and professional appearance
+
+## Skills Demonstrated:
+
+Data modeling and transformation
+
+DAX calculations
+
+Power BI visual design and storytelling
+
+Integration with Snowflake (cloud-based data platform)
 ![Dashboard](/Analysis_sales.png)
 
 

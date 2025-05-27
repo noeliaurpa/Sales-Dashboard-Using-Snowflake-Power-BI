@@ -28,7 +28,7 @@ DAX calculations
 Power BI visual design and storytelling
 
 Integration with Snowflake (cloud-based data platform)
-![Dashboard](/Analysis_sales.png)
+![Dashboard](/Sales_analysis.png)
 
 
 # Snowflake

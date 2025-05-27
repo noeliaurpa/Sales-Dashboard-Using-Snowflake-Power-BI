@@ -29,6 +29,7 @@ Power BI visual design and storytelling
 
 Integration with Snowflake (cloud-based data platform)
 ![Dashboard](/Sales_analysis.png)
+## To view the project, you can go to the following link: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDA3MTUyOTctZmViYi00NTBmLTliNjMtODIzZmM5ZGEzNzFlIiwidCI6IjAzNjhiOGIxLThjZWEtNDMwYi1hNzMwLWI5MTZlNjA2MWY1OSIsImMiOjZ9)
 
 
 # Snowflake
